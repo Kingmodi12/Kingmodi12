@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kingmodi12
-- 👀 I’m interested in Nothing
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
